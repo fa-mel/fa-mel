@@ -1,5 +1,3 @@
-# Hi there, I'm Fa-Mel! 👋
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Applied+Physics+Student;Medical+Physics+Enthusiast;Complexity+Science+Researcher)](https://git.io/typing-svg)
 
 > *"Modelling the complexity of life and matter."*
