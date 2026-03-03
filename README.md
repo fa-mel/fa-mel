@@ -12,7 +12,7 @@
 
 I am an **Applied Physics student** focusing on **Medical Physics** and **Complexity Science**. I use computational methods to analyze how local interactions shape global behaviors in both biological tissues and algorithmic patterns.
 
-- 🔭 **Current Focus:** Inverse Cellular Automata & Algorithmic Compression.
+- 🔭 **Current Focus:** Complex Netwroks and Models and Numerical Methods.
 - 🏥 **Medical Physics:** Imaging, dosimetry, and biophysical modeling.
 - 🐍 **Main Tools:** Python (NumPy, SciPy), LaTeX, Linux.
 
